@@ -25,30 +25,55 @@ Technical Architecture:
 
 Assignment 😇
 
+
 Assignment 1
+
 Assignment 2
+
 Assignment 3
+
+
 PROJECT DESIGN & PLANNING 😇 Ideation Phase
 
+
 Empathy Map
+
 Brainstrom
+
 Literature Survey
+
 Problem Statement
+
+
 Project design Phase - 1
 
+
 Problem_solution_fit
+
 Proposed Solution
+
 Solution Architecture
+
 Project design Phase - 2
 
 Customer Journey
+
 Technology Architecture
+
 Dataflow Diagram
+
 Functional Requirements
+
 PROJECT PLANNING PHASE 😇
 
+
 SPRINT 1
+
 SPRINT 2
+
 SPRINT 3
+
 SPRINT 4
 
+
+DEMO_LINK_DRIVE: https://drive.google.com/file/d/1NI8dEu-4a2i_TE-KKPtjikvHPsTwkyo2/view?usp=drivesdk
